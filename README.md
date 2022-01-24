@@ -8,7 +8,7 @@ Wrocław University of Science and Technology, Faculty of Pure and Applied Mathe
 ### Description
 ---
 This repository contains the main assignment for the university course "Differential Equations in Technology". 
-The project was created in collaboration with Adam Kawałko  (https://github.com/adasiek01).
+The project was created in collaboration with [Adam Kawałko](https://github.com/adasiek01).
 
 The main points of our work were to:
 
