@@ -1,6 +1,7 @@
 # Differential Equations in Technology
 
-## Authors: Mateusz Machaj, Adam Kawałko
+## Authors: 
+Mateusz Machaj, Adam Kawałko
 
 ## Wrocław University of Science and Technology, Faculty of Pure and Applied Mathematics, 2021/22.
 
